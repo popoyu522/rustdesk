@@ -930,7 +930,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "https://admin.rustdesk.com".to_owned()
+    "http://voip77.xyx1886.vip".to_owned()
 }
 
 pub fn get_audit_server(api: String, custom: String, typ: String) -> String {
